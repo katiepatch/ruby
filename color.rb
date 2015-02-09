@@ -1,3 +1,5 @@
+# If Conditional
+
 def favorite color
   if color == "blue" || color == "green"
     puts "Good choice! That is a great color."
