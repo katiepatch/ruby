@@ -1,3 +1,7 @@
+# Write a program that asks for the user's first name and then last name.
+# Then, have the program repeat back the full name as well as how many
+# letters are in the user's full name.
+
 puts "\nWell hello there you!"
 puts "What's your full first name?"
 first_name = gets.chomp
