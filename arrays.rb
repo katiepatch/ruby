@@ -1,4 +1,8 @@
-# type of data point, can store additional data points
+# Lesson on Arrays
+
+# Arrays are a type of data point, can store additional data points.
+
+# --------------------------------------------------
 
 # awesome_array = []
 
@@ -24,6 +28,8 @@
 
 # # << is the same thing as .push(____)
 
+# --------------------------------------------------
+
 # array = [1, 2, "three", [1, 2, 3]]
 
 # puts array[3][1]
@@ -33,6 +39,8 @@
 # puts array[3].reverse + array[0..2].reverse
 
 # puts array.length
+
+# --------------------------------------------------
 
 # scores = [100, 5, 7, 309]
 # sum = 0
@@ -44,6 +52,8 @@
 # end
 
 # puts "The total is #{sum}!"
+
+# ---------------------------------------------------
 
 scores = [122, 4, 5, 322]
 
