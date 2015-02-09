@@ -1,3 +1,5 @@
+# Practicing methods and conditionals.
+
 def id age
   if age == 21
     puts "Just made it! Come on in."
