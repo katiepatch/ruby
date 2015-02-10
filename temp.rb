@@ -1,4 +1,4 @@
-
+# Practicing methods
 
 def going_hiking(temp)
   if temp == 23
