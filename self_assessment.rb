@@ -11,6 +11,8 @@
 
 # puts name(your_name)
 
+# ----------------------------------------------------------------------------------------
+
 
 # 2.  Correct the code below so it displays the sum of x, y, and z
 
@@ -24,6 +26,8 @@
 
     # puts sum_numbers(1,2,3)
 
+# ----------------------------------------------------------------------------------------
+
 # 3.  Add to the code below so it displays "Don't forget to (to do item)." for each item.
 
 
@@ -33,6 +37,8 @@
      # to_do.each do |x|
      #  puts "Don't forget to #{x}."
      # end
+
+# ----------------------------------------------------------------------------------------
 
 # 4.  What is the return value of the following:
 
@@ -50,11 +56,15 @@
 
     # puts avg(5, 8, 6, 10)
 
+# ----------------------------------------------------------------------------------------
+
 # 5.  What is the return value of the following
 
      # names = ['David', 'Trevor', 'Sarah', 'Mason']
 
      # puts names[2]
+
+# ----------------------------------------------------------------------------------------
 
 # 6.  How do you add "bobcat" to this list of wild cat species?
 
@@ -63,6 +73,8 @@
      # wild_cats= ['cheetah', 'lion', 'leopard', 'tiger']
 
      # puts wild_cats.push('bobcat')
+
+# ----------------------------------------------------------------------------------------
 
 # 7.  How do you retrieve the birthplace of user43?
 
@@ -78,6 +90,8 @@
 
 # 8.  How do you add "Atlanta, GA " as the current city for user43 in the hash from question 8?
 
+# ----------------------------------------------------------------------------------------
+
 # 9.  How would you retrieve "y" in the following array?
 
 
@@ -85,6 +99,8 @@
       # alpha_soup= ["c", "k", "y", "u"]
 
       # puts alpha_soup[2]
+
+# ----------------------------------------------------------------------------------------
 
 # 10.  How would you retrieve "14" in the following hash?
 
@@ -94,6 +110,7 @@
 
        # puts alphabits["k"].to_s
 
+# ----------------------------------------------------------------------------------------
 
 # 11. Write a loop that continues to display random numbers between 1 and 10 until the number generated is 7.
 
@@ -117,23 +134,25 @@
 
 # puts "There are #{y} numbers under 6."
 
-#-----------------------------------
+# ----------------------------------------------------------------------------------------
 # until x == 7
 #   x = rand(1..10)
 #   puts x
 # end
-#---------------------------------------
+# ----------------------------------------------------------------------------------------
 # ten = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
 
 # while ten[0] != 7
 #   ten.shuffle!
 #   puts ten[0]
 # end
-#---------------------------------------
+# ----------------------------------------------------------------------------------------
 
 # 12.  Continuing from question 11 above, push each randomly generated number to an array.
 # Then use an each loop and a conditional statement inside to display the total amount of numbers that are under 6.
 # Then display a statement that reads: "There are (total) numbers under 6."
+
+# ----------------------------------------------------------------------------------------
 
 # 13.  Write code to create a new instance of a Vehicle object and make it honk.
 

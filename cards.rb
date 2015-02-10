@@ -20,12 +20,17 @@
 #   puts "I'm awesome and #{stuff}!"
 # end
 
+# Notes on hashes
+
+# ---------------------------------------------------
+
 # really_awesome_method("fun")
 
 # my_hash = {"hannah" => "hannah@tts.com", "gant" => "gant@tts.com", "laura" => "laura@tts.com"}
 
 # puts my_hash.keys
 
+# ----------------------------------------------------
 
 # people = {:hannah => 31, :maria => 82, :allison => 14, :sia => 14}
 
@@ -34,6 +39,8 @@
 # people.each do |key,value|
 #   puts "#{key.capitalize}, who is #{value} years old."
 # end
+
+# ----------------------------------------------------
 
 # parades = [["Chewbacchus", "tit rex"], ["Barkus", "Thoth", "Bacchus"], ["Nyx"]]
 

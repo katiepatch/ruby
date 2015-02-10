@@ -1,3 +1,5 @@
+# Working on methods and loops
+
 def first_test
   puts "What is 1 + 2?"
   gets.chomp
